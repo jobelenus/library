@@ -1,0 +1,10 @@
+https://owais.lone.pw/blog/webpack-plus-reactjs-and-django/
+
+Celery
+https://theblog.workey.co/my-experiences-with-a-long-running-celery-based-microprocess-b2cc30da94f5
+
+Node Interop
+http://www.connecto.io/blog/use-django-sessions-in-nodejs-for-authentication/
+
+Tenancy
+https://github.com/bernardopires/django-tenant-schemas

@@ -1,0 +1,3 @@
+Slack
+https://softwareengineeringdaily.com/2018/11/28/slack-messaging-architecture-with-keith-adams/?fbclid=IwAR19_x2LQiZQrjxOAqQ2wEvs5rkcPSiNSIHw7iSMC6UHSwGHSlRLjahxe_o
+https://softwareengineeringdaily.com/2016/09/12/slacks-architecture-with-keith-adams/

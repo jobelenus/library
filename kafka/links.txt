@@ -1,0 +1,7 @@
+https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering
+https://www.confluent.io/blog/event-streaming-platform-1
+https://www.heroku.com/tech-sessions/get-started-with-apache-kafka
+https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster
+https://github.com/umn-asr/kafka_brownbag
+https://kafka.apache.org/quickstart
+https://hackernoon.com/introduction-to-redis-streams-133f1c375cd3

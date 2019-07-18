@@ -1,0 +1,8 @@
+https://blog.doismellburning.co.uk/three-tips-to-get-the-most-out-of-aws-elastic-beanstalk/
+https://aws.amazon.com/timestream/
+https://expeditedsecurity.com/aws-in-plain-english/
+https://medium.com/swlh/data-modeling-in-aws-dynamodb-dcec6798e955
+https://blog.gruntwork.io/cloud-nuke-how-we-reduced-our-aws-bill-by-85-f3aced4e5876
+https://github.com/webdigi/AWS-VPN-Server-Setup
+http://www.albertgao.xyz/2019/07/08/handle-aws-lambda-error-with-api-gateway-integration-using-typescript-in-a-clean-way/
+https://aws.amazon.com/blogs/aws/building-serverless-pipelines-with-amazon-cloudwatch-events/

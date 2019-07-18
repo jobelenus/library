@@ -1,0 +1,31 @@
+Roadmap & Priority
+	http://www.jamiearnold.com/blog/2014/07/22/seven-questions-to-build-a-roadmap
+	https://www.producttalk.org/2019/02/prioritize-opportunities/?utm_source=Twitter&utm_medium=tweet-this&utm_campaign=Monthly+Post
+
+The Role
+	https://www.intercom.com/blog/accidentally-invented-job-stories/
+	Ryan Singer
+		https://www.feltpresence.com/functions.html
+		https://medium.com/@rjs/vital-elements-of-the-product-design-process-3db9cdaedc8b
+		https://m.signalvnoise.com/position--position--position/#.c52p6x2pl
+	John Cutler
+		https://medium.com/the-creative-founder/the-evolving-product-manager-role-6f288bbc3cda
+		https://twitter.com/johncutlefish/status/1148069023172612096
+		https://twitter.com/johncutlefish/status/1147913777867718656
+
+Mortems
+	https://hbr.org/2007/09/performing-a-project-premortem
+	https://codeascraft.com/2012/05/22/blameless-postmortems/
+
+Experimental
+	Write the internal press release first - https://medium.com/bluesoft-labs/try-an-internal-press-release-before-starting-new-products-867703682934
+
+Against NPS
+	https://blog.usejournal.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it-fe7a132f4430
+
+Basecamp
+	https://basecamp.com/shapeup
+
+Documents & Templates
+	https://www.product-frameworks.com/
+	https://medium.com/@joellefungyh/newbie-pms-guide-to-the-product-requirements-document-61f7776ab3f1

@@ -1,0 +1,5 @@
+http://oldblog.antirez.com/post/redis-persistence-demystified.html
+http://antirez.com/news/126
+https://oss.redislabs.com/redisgraph/
+https://redis.io/topics/streams-intro
+https://hackernoon.com/introduction-to-redis-streams-133f1c375cd3

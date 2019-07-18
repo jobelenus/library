@@ -1,0 +1,8 @@
+https://medium.com/faun/how-to-monitor-the-sre-golden-signals-1391cadc7524
+https://www.monkeynoodle.org/2018/11/dursley-and-caps.html
+https://www.monkeynoodle.org/2018/12/moving-transformation-point-of-data.html
+https://bravenewgeek.com/the-observability-pipeline/
+https://codeascraft.com/2011/02/15/measure-anything-measure-everything/
+https://medium.com/jaegertracing/embracing-context-propagation-7100b9b6029a
+https://www.greaterthancode.com/resilience-engineering
+https://www.kitchensoap.com/2015/05/01/openlettertomonitoringproducts/
