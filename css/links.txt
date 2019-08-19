@@ -16,6 +16,7 @@ https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b3
 https://css-tricks.com/snippets/css/fluid-typography/
 https://www.typewolf.com/google-fonts
 https://fonts.google.com/specimen/Bitter
+https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-use-google-font-superfamilies-1dae04b2fc50
 
 Color
 https://contrast-ratio.com/#hsl%28120%2C%2066%25%2C%2010%25%29-on-hsl%280%2C%2095%25%2C%2083%25%29
@@ -23,6 +24,8 @@ https://medium.com/envoy-design/how-to-design-an-accessible-color-scheme-4a13ca1
 http://ksrowell.com/blog-visualizing-data/2012/02/02/optimal-colors-for-graphs/
 https://www.smashingmagazine.com/2016/04/web-developer-guide-color/
 https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=004D40&secondary.color=BF360C
+https://coolors.co/
+https://twitter.com/laurenbaldoart/status/1151835561415495681
 
 Libraries
 https://icomoon.io/app/#/select

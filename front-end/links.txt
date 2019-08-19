@@ -1,2 +1,42 @@
 https://www.youtube.com/watch?v=Mjqf2kkFLy8 -- HTTP HEADERS
 https://scottberkun.com/essays/23-how-to-run-a-design-critique/
+http://www.sitepoint.com/google-closure-how-not-to-write-javascript/
+https://medium.freecodecamp.org/a-gentle-introduction-to-d3-how-to-build-a-reusable-bubble-chart-9106dc4f6c46
+https://github.com/sindresorhus/capture-website-cli
+https://developers.google.com/web/updates/2018/10/animation-worklet
+https://github.com/twitter/twemoji
+https://medium.com/making-faces-and-other-emoji/emoji-on-the-web-537c5769dffa
+https://www.joshwcomeau.com/posts/folding-the-dom/
+https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-download-images/
+
+https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
+https://lawsofux.com/
+https://abookapart.com/products/just-enough-research
+
+Accessibility
+https://www.sarasoueidan.com/blog/accessible-icon-buttons/
+https://dev.to/wuz/become-an-accessibility-rock-star-4h0c
+
+Perf
+https://2019.jsconf.eu/news/how-we-built-the-fastest-conference-website-in-the-world/
+https://developers.google.com/web/tools/workbox/
+
+User tools
+https://www.fullstory.com/
+https://www.hotjar.com/
+
+Service Workers
+https://codeburst.io/an-introduction-to-service-workers-in-javascript-27d6376460c2
+https://blog.sessionstack.com/how-javascript-works-service-workers-their-life-cycle-and-use-cases-52b19ad98b58
+https://alligator.io/js/service-workers/
+https://developers.google.com/web/ilt/pwa/caching-files-with-service-worker
+https://developers.google.com/web/fundamentals/push-notifications/
+https://www.youtube.com/watch?v=cmGr0RszHc8 -- offline first PWA
+
+Examples & Components
+https://streamlineicons.com/
+https://inclusive-components.design/#components
+https://github.com/yabwe/medium-editor -- WYSIWYG
+https://haltu.github.io/muuri/ -- draggable grids
+https://zzz.dog/ -- fake 3d
+https://codepen.io/dsm-webdsigner/pen/dYBRYw

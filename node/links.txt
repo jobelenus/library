@@ -26,3 +26,6 @@ https://www.npmjs.com/package/awaitn
 https://knexjs.org/
 http://www.passportjs.org/
 https://github.com/cognitect-labs/transducers-js
+
+
+https://www.codementor.io/codehakase/building-a-restful-api-with-golang-a6yivzqdo

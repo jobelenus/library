@@ -43,3 +43,10 @@ https://igormroz.com/documents/netflix_culture.pdf
 https://medium.com/@joedunnSFCoach/building-culture-naming-symbols-rituals-stories-471f2398a3b7
 https://medium.com/ingeniouslysimple/redgates-fantastic-beasts-65063cdf17ec
 https://www.mikemcgarr.com/blog/understanding-culture.html
+https://continuousdelivery.com/implementing/culture/
+
+Documentation & Culture
+https://www.macmillanlearning.com/catalog/static/bsm/techcomm6e/
+https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/
+http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+https://www.youtube.com/watch?v=rwfXkSjFhzc&feature=youtu.be
