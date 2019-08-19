@@ -1,0 +1,30 @@
+https://every-layout.dev/
+http://stylus-lang.com/ -- expressive css
+https://codepen.io/pupismyname/pen/bqVKpW?html-preprocessor=markdown -- svg starbust
+https://medium.freecodecamp.org/how-to-check-if-an-input-is-empty-with-css-1a83715f9f3e
+https://css-tricks.com/masking-vs-clipping-use/
+https://medium.com/@drewisthe/using-making-sense-of-clip-path-cf651676438c
+http://ianlunn.github.io/Hover/
+https://thoughtbot.com/blog/svg-animations
+https://www.nomensa.com/blog/2017/web-accessibility-guidelines-and-how-use-them
+https://tink.uk/flexbox-the-keyboard-navigation-disconnect/
+https://csswizardry.com/2012/06/single-direction-margin-declarations/
+
+Type
+https://www.madebymike.com.au/writing/precise-control-responsive-typography/
+https://blog.prototypr.io/how-to-set-perfect-line-lengths-for-the-web-528f08f8b344
+https://css-tricks.com/snippets/css/fluid-typography/
+https://www.typewolf.com/google-fonts
+https://fonts.google.com/specimen/Bitter
+
+Color
+https://contrast-ratio.com/#hsl%28120%2C%2066%25%2C%2010%25%29-on-hsl%280%2C%2095%25%2C%2083%25%29
+https://medium.com/envoy-design/how-to-design-an-accessible-color-scheme-4a13ca12c92b
+http://ksrowell.com/blog-visualizing-data/2012/02/02/optimal-colors-for-graphs/
+https://www.smashingmagazine.com/2016/04/web-developer-guide-color/
+https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=004D40&secondary.color=BF360C
+
+Libraries
+https://icomoon.io/app/#/select
+https://intuit.github.io/qb-animation-library/#animation-classes
+https://nostalgic-css.github.io/NES.css/

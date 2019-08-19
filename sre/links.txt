@@ -6,3 +6,6 @@ https://codeascraft.com/2011/02/15/measure-anything-measure-everything/
 https://medium.com/jaegertracing/embracing-context-propagation-7100b9b6029a
 https://www.greaterthancode.com/resilience-engineering
 https://www.kitchensoap.com/2015/05/01/openlettertomonitoringproducts/
+https://www.verica.io/top-seven-myths-of-robust-systems/
+https://stripe.com/gb/blog/secret-life-of-dns?ck_subscriber_id=512838787
+https://medium.com/engenharia-noalvo/ways-to-have-your-private-npm-registry-and-a-final-diy-solution-eed001a88e74

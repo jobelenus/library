@@ -5,7 +5,6 @@ https://www.infoworld.com/article/3260184/how-to-choose-the-right-nosql-database
 https://github.com/cockroachdb/cockroach
 https://github.com/dgraph-io/dgraph
 
-
 Cassandra
 https://medium.com/@alexbmeng/cassandra-query-language-cql-vs-sql-7f6ed7706b4c
 https://www.ebayinc.com/stories/blogs/tech/cassandra-data-modeling-best-practices-part-1/
@@ -27,3 +26,7 @@ https://joinhandshake.com/engineering/2017/02/27/database-migrations-and-locks.h
 https://dev.to/helenanders26/sql-201-have-you-vacuumed-your-tables-lately-51ea
 https://medium.com/@hakibenita/be-careful-with-cte-in-postgresql-fca5e24d2119
 https://medium.com/braintree-product-technology/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680
+
+
+DynamoDB
+https://medium.com/sysco-labs/things-to-consider-before-choosing-dynamodb-a3bcddfbf430

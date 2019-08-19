@@ -1,1 +1,2 @@
 https://medium.com/swlh/kubernetes-on-aws-setup-and-lessons-learned-93f8322bc13a
+https://www.upguard.com/articles/docker-vs-lxc

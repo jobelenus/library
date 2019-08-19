@@ -1,0 +1,28 @@
+Perf
+https://medium.com/dev-bits/writing-memory-efficient-software-applications-in-node-js-5575f646b67f
+https://github.com/STRML/node-toobusy
+https://medium.com/the-andela-way/timing-performance-with-performance-hooks-in-node-js-45e666a046a1
+https://medium.com/the-node-js-collection/cpu-and-i-o-performance-diagnostics-in-node-js-e513ba433c39
+https://dev.to/vigzmv/a-simple-caching-strategy-for-node-rest-apis-part-1-72a
+https://medium.com/the-node-js-collection/node-js-memory-management-in-container-environments-7eb8409a74e8
+https://github.com/ericelliott/riteway
+
+Node serverless
+https://github.com/shekhargulati/hands-on-serverless-guide
+
+Tokens
+http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/
+https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them/
+https://levelup.gitconnected.com/authenticating-http-requests-in-modern-web-apps-6fd9099269f1
+https://aws.amazon.com/blogs/apn/how-to-integrate-rest-apis-with-single-page-apps-and-secure-them-using-auth0-part-1/
+
+Event Loop
+https://www.youtube.com/watch?v=P9csgxBgaZ8
+
+Tooling
+https://www.npmjs.com/package/h2-auto-push
+https://github.com/ericelliott/riteway
+https://www.npmjs.com/package/awaitn
+https://knexjs.org/
+http://www.passportjs.org/
+https://github.com/cognitect-labs/transducers-js

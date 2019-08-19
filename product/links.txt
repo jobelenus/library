@@ -17,6 +17,7 @@ The Role
 Mortems
 	https://hbr.org/2007/09/performing-a-project-premortem
 	https://codeascraft.com/2012/05/22/blameless-postmortems/
+  https://github.com/danluu/post-mortems
 
 Experimental
 	Write the internal press release first - https://medium.com/bluesoft-labs/try-an-internal-press-release-before-starting-new-products-867703682934
@@ -26,7 +27,15 @@ Against NPS
 
 Basecamp
 	https://basecamp.com/shapeup
+  http://www.feltpresence.com/functions.html  -- products are functions
 
 Documents & Templates
 	https://www.product-frameworks.com/
 	https://medium.com/@joellefungyh/newbie-pms-guide-to-the-product-requirements-document-61f7776ab3f1
+
+
+Wardley Maps
+  https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
+
+https://medium.dave-bailey.com/how-to-perfectly-capture-your-customers-need-c924e3209484
+https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/

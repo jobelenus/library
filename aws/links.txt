@@ -6,3 +6,13 @@ https://blog.gruntwork.io/cloud-nuke-how-we-reduced-our-aws-bill-by-85-f3aced4e5
 https://github.com/webdigi/AWS-VPN-Server-Setup
 http://www.albertgao.xyz/2019/07/08/handle-aws-lambda-error-with-api-gateway-integration-using-typescript-in-a-clean-way/
 https://aws.amazon.com/blogs/aws/building-serverless-pipelines-with-amazon-cloudwatch-events/
+
+talks, posts, one post-mortem for AWS robustness-resilience
+https://docs.google.com/spreadsheets/d/1dE7OsPh6VyXahs5r5tho9_99V_AJmHOgqYcryHR9ikM/edit#gid=0
+
+Simplying AWS
+https://threadreaderapp.com/thread/1154516910265884672.html
+
+https://github.com/resotto/aws-terraform?ck_subscriber_id=512838787
+https://www.serverlesslife.com/AWS_Serverless_Common_Mistakes_Security.html
+https://github.com/kevinslin/open-cdk?ck_subscriber_id=512838787
