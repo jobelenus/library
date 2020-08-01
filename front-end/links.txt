@@ -12,6 +12,11 @@ https://csswizardry.com/2018/06/image-inconsistencies-how-and-when-browsers-down
 https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
 https://lawsofux.com/
 https://abookapart.com/products/just-enough-research
+https://augmented-ui.com/
+https://htmlhead.dev/
+https://uxdesign.cc/buttons-placement-and-order-bb1c4abadfcb
+https://ibm.github.io/carbon-components-svelte/?path=/story/form--default
+
 
 Accessibility
 https://www.sarasoueidan.com/blog/accessible-icon-buttons/
