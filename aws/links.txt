@@ -33,3 +33,4 @@ https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08
 https://www.freecodecamp.org/news/ultimate-dynamodb-2020-cheatsheet/amp/?ck_subscriber_id=512838787
 https://dynobase.dev/dynamodb-cost-optimization/?ck_subscriber_id=512838787
 https://www.alexdebrie.com/posts/dynamodb-one-to-many/?ck_subscriber_id=512838787
+https://www.youtube.com/watch?v=jzeKPKpucS0
