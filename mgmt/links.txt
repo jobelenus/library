@@ -21,6 +21,7 @@ https://blog.justincarmony.com/2019/06/10/directors-first-rule-my-desired-outcom
 Org Design
 https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/
 https://kellanem.com/notes/on-team-size
+http://agileotter.blogspot.com/2015/10/principles-for-large-organizations.html
 
 Presenting
 http://randsinrepose.com/links/2013/11/15/fix-your-boring-slides/
@@ -31,6 +32,7 @@ https://blog.knowyourcompany.com/how-to-have-an-honest-one-on-one-with-an-employ
 https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-on-one-meeting-with-your-manager/
 https://larahogan.me/blog/first-one-on-one-questions/
 https://knowyourteam.com/blog/2019/05/18/the-32-best-employee-engagement-questions/
+https://medium.com/personal-growth/an-fbi-behaviour-expert-explains-how-to-quickly-build-trust-with-anyone-94a05be01cea
 
 Meetings
 https://medium.com/swlh/how-to-take-control-of-difficult-meetings-78f2798e5001
@@ -44,6 +46,7 @@ https://medium.com/@joedunnSFCoach/building-culture-naming-symbols-rituals-stori
 https://medium.com/ingeniouslysimple/redgates-fantastic-beasts-65063cdf17ec
 https://www.mikemcgarr.com/blog/understanding-culture.html
 https://continuousdelivery.com/implementing/culture/
+https://www.developer-first.com/post/leaders-here-are-46-ways-you-might-be-doing-it-wrong
 
 Documentation & Culture
 https://www.macmillanlearning.com/catalog/static/bsm/techcomm6e/
