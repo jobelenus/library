@@ -17,14 +17,31 @@ https://patrickfigures.com/rules-to-live-by-when-breaking-bad-news/
 https://hackernoon.com/a-voight-kampff-test-for-identifying-engineering-managers-bb8512c70857
 
 https://blog.justincarmony.com/2019/06/10/directors-first-rule-my-desired-outcome-is/
+https://medium.com/@skamille/how-do-managers-get-stuck-b6ec9ecd1da1
+https://sriramk.com/memos
+http://meaningring.com/2017/11/15/the-management-letter-by-peter-drucker/
+https://codahale.com//work-is-work/
+https://avivbenyosef.com/wishful-leading/
+https://adrianhoward.com/posts/faster-horses/
+https://blog.jordansimonov.ski/posts/leadership/
+https://www.youtube.com/watch?v=QVBlnCTu9Ms
+https://www.youtube.com/watch?v=N94rM4FSfDA&feature=youtu.be
+https://medium.com/@tedbauer2003/do-we-think-managers-will-ever-get-woke-about-what-their-job-really-is-c44dd1bc6d56
+https://nemethgergely.com/engineering-productivity/
+https://twitter.com/swardley/status/1285537490858848260
+https://medium.com/craft-ventures/the-burn-multiple-51a7e43cb200
+https://management-kaizen.com/speech-acts-adding-clarity-to-communication/
 
 Org Design
 https://stratechery.com/2013/why-microsofts-reorganization-is-a-bad-idea/
 https://kellanem.com/notes/on-team-size
 http://agileotter.blogspot.com/2015/10/principles-for-large-organizations.html
+https://ctocraft.com/blog/why-you-need-to-bridge-business-and-engineering-with-autonomy/
+http://snarkmarket.com/2010/4890
 
 Presenting
 http://randsinrepose.com/links/2013/11/15/fix-your-boring-slides/
+https://doitlive.readthedocs.io/en/stable/
 
 1:1
 https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s/
@@ -33,12 +50,14 @@ https://knowyourteam.com/blog/2018/01/03/7-ways-to-prepare-for-an-effective-one-
 https://larahogan.me/blog/first-one-on-one-questions/
 https://knowyourteam.com/blog/2019/05/18/the-32-best-employee-engagement-questions/
 https://medium.com/personal-growth/an-fbi-behaviour-expert-explains-how-to-quickly-build-trust-with-anyone-94a05be01cea
+https://medium.dave-bailey.com/the-ultimate-guide-to-developing-people-5fc35f736386
 
 Meetings
 https://medium.com/swlh/how-to-take-control-of-difficult-meetings-78f2798e5001
 
 Roy
 https://medium.com/@royrapoport/the-five-conditions-for-improvement-20909f856dab
+https://medium.com/@royrapoport/the-iron-triangle-influencing-behaviors-and-creating-outcomes-116c5214e329
 
 Culture
 https://igormroz.com/documents/netflix_culture.pdf
@@ -47,6 +66,9 @@ https://medium.com/ingeniouslysimple/redgates-fantastic-beasts-65063cdf17ec
 https://www.mikemcgarr.com/blog/understanding-culture.html
 https://continuousdelivery.com/implementing/culture/
 https://www.developer-first.com/post/leaders-here-are-46-ways-you-might-be-doing-it-wrong
+https://medium.com/@royrapoport/the-iron-triangle-influencing-behaviors-and-creating-outcomes-116c5214e329
+https://medium.com/we-are-madewithlove/we-are-not-a-remote-first-company-b821c1377f64
+
 
 Documentation & Culture
 https://www.macmillanlearning.com/catalog/static/bsm/techcomm6e/
@@ -54,3 +76,4 @@ https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-
 http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
 https://www.youtube.com/watch?v=rwfXkSjFhzc&feature=youtu.be
 https://dhwthompson.com/2019/my-favourite-git-commit
+
