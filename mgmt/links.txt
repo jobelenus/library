@@ -53,3 +53,4 @@ https://www.macmillanlearning.com/catalog/static/bsm/techcomm6e/
 https://blog.pragmaticengineer.com/scaling-engineering-teams-via-writing-things-down-rfcs/
 http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
 https://www.youtube.com/watch?v=rwfXkSjFhzc&feature=youtu.be
+https://dhwthompson.com/2019/my-favourite-git-commit
