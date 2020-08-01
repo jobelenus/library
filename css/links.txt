@@ -9,6 +9,7 @@ https://thoughtbot.com/blog/svg-animations
 https://www.nomensa.com/blog/2017/web-accessibility-guidelines-and-how-use-them
 https://tink.uk/flexbox-the-keyboard-navigation-disconnect/
 https://csswizardry.com/2012/06/single-direction-margin-declarations/
+https://getwaves.io/
 
 Type
 https://www.madebymike.com.au/writing/precise-control-responsive-typography/
