@@ -18,6 +18,7 @@ https://uxdesign.cc/buttons-placement-and-order-bb1c4abadfcb
 https://ibm.github.io/carbon-components-svelte/?path=/story/form--default
 https://www.youtube.com/watch?v=o0NtjY17v5w
 https://heydon.selz.com/item/5b83f1cff6281a0ec0c54a95
+http://www.atomicdesign.bradfrost.com/chapter-1/
 
 Accessibility
 https://www.sarasoueidan.com/blog/accessible-icon-buttons/
