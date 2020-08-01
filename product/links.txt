@@ -40,6 +40,7 @@ Wardley Maps
 https://medium.dave-bailey.com/how-to-perfectly-capture-your-customers-need-c924e3209484
 https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/
 https://medium.com/positiveslope/crafting-the-first-mile-of-product-7ed25e8f1027
+https://medium.com/product-to-product/creating-effective-customer-feedback-loops-for-product-teams-63e06416b5b
 
 Positioning
 https://userlist.io/positioning-overhaul/
