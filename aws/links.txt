@@ -2,6 +2,7 @@ https://blog.doismellburning.co.uk/three-tips-to-get-the-most-out-of-aws-elastic
 https://aws.amazon.com/timestream/
 https://expeditedsecurity.com/aws-in-plain-english/
 https://medium.com/swlh/data-modeling-in-aws-dynamodb-dcec6798e955
+https://github.com/awslabs/dynamodb-transactions/blob/master/DESIGN.md
 https://blog.gruntwork.io/cloud-nuke-how-we-reduced-our-aws-bill-by-85-f3aced4e5876
 https://github.com/webdigi/AWS-VPN-Server-Setup
 http://www.albertgao.xyz/2019/07/08/handle-aws-lambda-error-with-api-gateway-integration-using-typescript-in-a-clean-way/
