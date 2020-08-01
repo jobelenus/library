@@ -17,3 +17,4 @@ https://github.com/resotto/aws-terraform?ck_subscriber_id=512838787
 https://www.serverlesslife.com/AWS_Serverless_Common_Mistakes_Security.html
 https://github.com/claygregory/serverless-prune-plugin
 https://github.com/kevinslin/open-cdk?ck_subscriber_id=512838787
+http://okigiveup.net/discovering-aws-with-cli-part-1-basics/?ck_subscriber_id=512838787
