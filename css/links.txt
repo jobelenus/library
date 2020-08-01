@@ -10,6 +10,14 @@ https://www.nomensa.com/blog/2017/web-accessibility-guidelines-and-how-use-them
 https://tink.uk/flexbox-the-keyboard-navigation-disconnect/
 https://csswizardry.com/2012/06/single-direction-margin-declarations/
 https://getwaves.io/
+https://www.producthunt.com/posts/open-doodles
+https://hankchizljaw.com/wrote/a-modern-css-reset/
+https://hankchizljaw.com/wrote/custom-property-controlled-fluid-type-sizing/
+https://css-tricks.com/how-to-build-a-bad-design-system/
+https://dev.opera.com/articles/css-will-change-property/
+https://codepen.io/collection/XJNKLz/
+https://wweb.dev/resources/css-separator-generator
+https://codepen.io/enbee81/pen/MWKxrvP
 
 Type
 https://www.madebymike.com.au/writing/precise-control-responsive-typography/
@@ -18,6 +26,9 @@ https://css-tricks.com/snippets/css/fluid-typography/
 https://www.typewolf.com/google-fonts
 https://fonts.google.com/specimen/Bitter
 https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-use-google-font-superfamilies-1dae04b2fc50
+https://github.com/cmiscm/leonsans
+https://github.com/propublica/weepeople
+https://css-tricks.com/almanac/properties/f/font-display/
 
 Color
 https://contrast-ratio.com/#hsl%28120%2C%2066%25%2C%2010%25%29-on-hsl%280%2C%2095%25%2C%2083%25%29
@@ -27,6 +38,9 @@ https://www.smashingmagazine.com/2016/04/web-developer-guide-color/
 https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=004D40&secondary.color=BF360C
 https://coolors.co/
 https://twitter.com/laurenbaldoart/status/1151835561415495681
+https://colors.muz.li/
+https://stripe.com/blog/accessible-color-systems
+https://www.happyhues.co/palettes/8
 
 Libraries
 https://icomoon.io/app/#/select
