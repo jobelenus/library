@@ -1,12 +1,14 @@
 https://blog.doismellburning.co.uk/three-tips-to-get-the-most-out-of-aws-elastic-beanstalk/
 https://aws.amazon.com/timestream/
 https://expeditedsecurity.com/aws-in-plain-english/
-https://medium.com/swlh/data-modeling-in-aws-dynamodb-dcec6798e955
-https://github.com/awslabs/dynamodb-transactions/blob/master/DESIGN.md
+
 https://blog.gruntwork.io/cloud-nuke-how-we-reduced-our-aws-bill-by-85-f3aced4e5876
 https://github.com/webdigi/AWS-VPN-Server-Setup
 http://www.albertgao.xyz/2019/07/08/handle-aws-lambda-error-with-api-gateway-integration-using-typescript-in-a-clean-way/
 https://aws.amazon.com/blogs/aws/building-serverless-pipelines-with-amazon-cloudwatch-events/
+https://datapath.io/resources/blog/what-are-aws-data-transfer-costs-and-how-to-minimize-them/
+https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/
+https://pm2.keymetrics.io/docs/tutorials/use-pm2-with-aws-elastic-beanstalk/
 
 talks, posts, one post-mortem for AWS robustness-resilience
 https://docs.google.com/spreadsheets/d/1dE7OsPh6VyXahs5r5tho9_99V_AJmHOgqYcryHR9ikM/edit#gid=0
@@ -19,3 +21,15 @@ https://www.serverlesslife.com/AWS_Serverless_Common_Mistakes_Security.html
 https://github.com/claygregory/serverless-prune-plugin
 https://github.com/kevinslin/open-cdk?ck_subscriber_id=512838787
 http://okigiveup.net/discovering-aws-with-cli-part-1-basics/?ck_subscriber_id=512838787
+https://medium.com/@GaryStafford/getting-started-with-iot-analytics-on-aws-5f2093bcf704
+
+DynamoDB
+https://medium.com/swlh/data-modeling-in-aws-dynamodb-dcec6798e955
+https://github.com/awslabs/dynamodb-transactions/blob/master/DESIGN.md
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html#HowItWorks.CoreComponents.PrimaryKey
+https://www.alexdebrie.com/posts/dynamodb-wish-list/?ck_subscriber_id=512838787
+https://medium.com/expedia-group-tech/dynamodb-guidelines-for-faster-reads-and-writes-3b172b4c2120
+https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08
+https://www.freecodecamp.org/news/ultimate-dynamodb-2020-cheatsheet/amp/?ck_subscriber_id=512838787
+https://dynobase.dev/dynamodb-cost-optimization/?ck_subscriber_id=512838787
+https://www.alexdebrie.com/posts/dynamodb-one-to-many/?ck_subscriber_id=512838787
